@@ -4,14 +4,9 @@
  * @Description:
  */
 import './App.css'
-import Header from './components/Header'
 
 const App = () => {
-  return (
-    <div className="bg-site ">
-      <Header />
-    </div>
-  )
+  return <div className="text-xl font-black">Hi</div>
 }
 
 export default App
